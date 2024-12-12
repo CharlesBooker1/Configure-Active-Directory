@@ -49,7 +49,7 @@ Open remote desktop connection and create two instances for the domain controlle
 
 <h3>Ensure Connectivity between the client and Domain Controller</h3>
 <p>
-<img src="https://i.imgur.com/b5AWooQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sEkkvim.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In Azure, click on Networking and from there it will open its page.  We can change the private IP address from dynamic to static so the IP address will stay the same for client's DNS to connect to the server.
