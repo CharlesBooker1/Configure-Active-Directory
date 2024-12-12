@@ -32,7 +32,7 @@ This tutorial outlines how to set up Active Directory within Azure Virtual Machi
 <h3>Create Two Virtual Machines</h3>
 
 <p>
-<img src="https://i.imgur.com/pqp7C8d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/h7qfKkC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To start go to portal.azure.com and create a profile or login. Create a subscription name-->Create a resource group-->Create two virtual machines-->Create a domain controller using Windows Server and a client PC using Windows 10 Pro
