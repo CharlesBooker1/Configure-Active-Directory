@@ -73,7 +73,7 @@ Once your NIC settings are open click on IP Configuration-->and the ipconfig1 Na
 <br />
 
 <p>
-<img src="https://i.imgur.com/mhUy4vv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PDOp6xo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 From the ipconfig1 screen, change the assignment of the private IP address from dynamic to static.  Then click Save.
