@@ -40,7 +40,7 @@ To start go to portal.azure.com and create a profile or login. Create a subscrip
 <br />
 
 <p>
-<img src="https://i.imgur.com/MNBcT58.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zxshoHW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Open remote desktop connection and create two instances for the domain controller and the client.  You will need this to create connectivity between the two in the next step.
