@@ -65,10 +65,10 @@ From the networking screen, click on your Network interface name to open ipconfi
 <br />
 
 <p>
-<img src="https://i.imgur.com/56btGwo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RAfiKPE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once your NIC settings are open click on IP Configuration-->and the 3 dots for your private IP address at the bottom of the screen.
+Once your NIC settings are open click on IP Configuration-->and the ipconfig1 Name for your private IP address at the bottom of the screen.
 </p>
 <br />
 
