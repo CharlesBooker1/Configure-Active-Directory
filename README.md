@@ -155,7 +155,7 @@ Go to your Remote Desktop Connection and log into your domain controller.  In th
 <br />
 
 <p>
-<img src="https://i.imgur.com/WGcJQ4h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6gmXgJF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 In the Active Directory right click on your domain name and move your mouse to hover new-->Organizational Unit and left click to create folders for your AD.  We will create employees, admins, and security groups.
 <p>
