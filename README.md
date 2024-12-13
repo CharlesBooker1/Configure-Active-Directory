@@ -250,7 +250,7 @@ In you domain controller go to your Server Manager-->Tools-->Active Directory Us
 <br />
 
 <p>
-<img src="https://i.imgur.com/emsDREZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lSP1ri3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Log into your Remote Desktop Connection using the username and credentials from DC-1.  You would need to use the domain\default username and default password.  Open command prompt and confirm username by typing whoami and type host name to verify the name of computer.
