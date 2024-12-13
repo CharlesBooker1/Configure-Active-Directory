@@ -89,7 +89,7 @@ Login to the Domain Controller through the Remote Desktop Connection and enable 
 <br />
 
 <p>
-<img src="https://i.imgur.com/m9W0gaQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9o2BP6f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 From the Windows Defender menu click on Inbound Rules-->Click on Protocol to ascend the types-->Look for ICMPv4 protocol-->Right Click on echo requests and Enable Rule.  This will now allow the clients DNS server to establish connection with the server.
