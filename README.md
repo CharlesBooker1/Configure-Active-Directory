@@ -147,7 +147,7 @@ Create a password for Directory Service Restoration Mode (DSRM)-->Click Next unt
 
 <h3>Create an Admin and Normal User Account in AD</h3>
 <p>
-<img src="https://i.imgur.com/hR8Wc6x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mQFY2C2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go to your Remote Desktop Connection and log into your domain controller.  In the Server Manager Menu Click on Tools-->Active Directory Users and Computers and it will open its window.
