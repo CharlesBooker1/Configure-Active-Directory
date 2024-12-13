@@ -106,7 +106,7 @@ To confirm connectivity, Open an instance of your client desktop and open your c
 
 <h3>Install Active Directory</h3>
 <p>
-<img src="https://i.imgur.com/5JTXYCf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Hlvm4zS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Open an instance of your Domain Controller from the Remote Desktop Connection and open the server manager.  Click on Add roles and features.  The following steps will install Active Directory on this server.
