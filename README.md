@@ -130,7 +130,7 @@ Once Active Directory is installed the server still needs to be promoted as a do
 <br />
 
 <p>
-<img src="https://i.imgur.com/gmSThMt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xgoLvPx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In Deployment Configuration dialog box click on Add a new forest and give your DC a domain name and click on next. 
