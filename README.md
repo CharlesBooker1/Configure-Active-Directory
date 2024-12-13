@@ -163,7 +163,7 @@ In the Active Directory right click on your domain name and move your mouse to h
 <br />
 
 <p>
-<img src="https://i.imgur.com/o5ZdcFp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6dIvoMc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After the Admins and Employees folder has been created.  Create an admin user for the admin folder.  To create a user right click on the _ADMINS folder under your domain-->Hover over New-->Hover to User-->Left click User
