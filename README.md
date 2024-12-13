@@ -215,7 +215,7 @@ Log into Client-1 using your login credentials from Microsoft Azure go to Start-
 <h3>Setup Remote Desktop for non-administrative users on Client-1</h3>
 
 <p>
-<img src="https://i.imgur.com/PDKNMqe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3OSO5lw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Connect to your remote desktop now as the admin that you created in your _ADMINS folder in your active directory.  Right click on the start menu and click on system properties-->Click on Remote Desktop-->Click Select users that can remotely access this PC-->Type "domain" in the object names box-->Click on Check Names to the right-->Another dialog box will show the groups, select Domain Users-->Click ok
