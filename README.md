@@ -114,7 +114,7 @@ Open an instance of your Domain Controller from the Remote Desktop Connection an
 <br />
 
 <p>
-<img src="https://i.imgur.com/n8YIEe5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gWdlpyH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Click Add roles and features and the wizard will open.  Click on next continually until you see your destination server to connect.  Click next a few times again until you see the Select server roles.  Check the radio button Active Directory Domain Services.  On that page, click on Add Features. Click on next through the proceeding pages that installs all of the dependencies and the final install button.
