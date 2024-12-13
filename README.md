@@ -122,7 +122,7 @@ Click Add roles and features and the wizard will open.  Click on next continuall
 <br />
 
 <p>
-<img src="https://i.imgur.com/gQbW88z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CHAYHYc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once Active Directory is installed the server still needs to be promoted as a domain server. In the upper right hand corner you will see a yellow caution sign next to the flag.  Click on that flag and the drop-down menu will populate and select Promote the server to a domain controller.
