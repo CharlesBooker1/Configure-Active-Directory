@@ -242,7 +242,7 @@ Log into your remote desktop  Client-1 with your system admin credentials.  Once
 <br />
 
 <p>
-<img src="https://i.imgur.com/js2k0Sm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XOqkqPO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In you domain controller go to your Server Manager-->Tools-->Active Directory Users and Computers-->Click on your domain-->Click on _EMPLOYEES folder that was created previously-->Double click on a user and the Properties window will populate-->Click on the Account tab-->type a login name in the box for your user-->Click Ok
