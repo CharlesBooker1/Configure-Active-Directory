@@ -180,7 +180,7 @@ Once the user has been created, the account must be added as an admin to that fo
 <br />
 
 <p>
-<img src="https://i.imgur.com/EXKhRiA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0Kko58g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once the group box is populated, type "domains" enter the object names to be selected box-->Click on Check Names to the right-->Select Domain Admins-->Click Ok-->Click on Apply-->Click Ok. This will add your user as a domain admin to your active directory. Log out of the server and log back into the server as the admin.
