@@ -233,7 +233,7 @@ Login to your domain controller (DC-1) as an admin.  Go to your Server Manager--
 <br />
 <h3>Create additional users and attempt to login Client-1 with one of the users</h3>
 <p>
-<img src="https://i.imgur.com/AZCCuwI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hJqMQMn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 **This method will add 10,000 users using programming code in Powershell***
